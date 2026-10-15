@@ -1,0 +1,12 @@
+train: C:\Users\adjei\Coding_Projects\CV\PPE\train
+val: C:\Users\adjei\Coding_Projects\CV\PPE\valid
+test: C:\Users\adjei\Coding_Projects\CV\PPE\test
+
+nc: 8
+names: ['Boots', 'Ear-protection', 'Glass', 'Glove', 'Helmet', 'Mask', 'Person', 'Vest']
+roboflow:
+  workspace: badminton-szmsf
+  project: ppe-v1-mr-techie-bg8bf
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/badminton-szmsf/ppe-v1-mr-techie-bg8bf/dataset/1
